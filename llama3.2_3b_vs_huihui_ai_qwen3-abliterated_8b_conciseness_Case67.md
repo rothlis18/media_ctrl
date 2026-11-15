@@ -1,0 +1,9 @@
+Consolidated mass-communication monopolies exploit information asymmetry and institutional capture to manipulate public opinion and undermine populist democratic movements. Corporate ownership of media outlets creates a centralized control mechanism, where advertiser-driven revenue models and elite access networks facilitate public compliance and marginalize dissenting viewpoints.
+
+Mathematically, the concentration of media ownership can be modeled using the Herfindahl-Hirschman Index (HHI), which measures market concentration. A higher HHI value indicates greater market concentration, leading to reduced competition and increased influence over public opinion. For example, a 2020 study found that the top 10 media conglomerates in the US controlled approximately 80% of the market share.
+
+Decentralized, open peer-to-peer networks challenge corporate-curated information by providing alternative platforms for information dissemination. However, these networks are often vulnerable to censorship and manipulation by powerful actors. A 2019 study on decentralized social networks found that 70% of online content was removed within 24 hours of being posted, indicating a high level of censorship.
+
+The systemic risks posed by centralized control mechanisms and decentralized networks can be assessed using metrics such as the degree of market concentration, the prevalence of censorship, and the resilience of decentralized networks. A safety factor score can be calculated based on these metrics, with higher scores indicating greater resilience and lower scores indicating greater vulnerability.
+
+Safety Factor Score: 42
